@@ -88,11 +88,6 @@ Segmentation and selection of high-stroma tiles to be fed into the training data
 
 ![Image Alt Text](Image3.jpeg)
 
-
-Contrastive learning of most significant features highlights a clear difference in the appearance of the extracellular matrix and the degree of fibroblast activation.
-
-![Image Alt Text](Image4.jpeg)
-
 ## Contributing 
 
 
