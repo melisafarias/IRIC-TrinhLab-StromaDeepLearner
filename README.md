@@ -1,7 +1,7 @@
 
 # Deep Learning-based Identification and Characterization of Stroma in Pancreatic Cancer Histology Slides: Implications for Cancer Prevention and Prognosis
 
-Paper link: ---
+Paper link : TBD
 
 This is the official repository with the code and resources for our research project on deep learning-based identification and characterization of stroma in pancreatic cancer histology slides. 
 
