@@ -72,7 +72,23 @@ Depending on your specific research needs, you may also consider the following o
 ## Usage
 
 ## Experimental Results 
-Add Pertinent Images
+
+Intermediate Features of the computer vision and deep-learning steps. 
+Example of whole slide images, with annotated area of study.
+![Image Alt Text](Annotation_and_Exportation_in_ometiff.jpeg)
+
+Normalization of two differentially stained tiles. 
+
+![Image Alt Text](H&E_color_normalization.jpeg)
+
+Segmentation and selection of high-stroma tiles to be fed into the training datasets.
+
+![Image Alt Text](Triaging_from_Ilastik_training.jpeg)
+
+
+Contrastive learning of most significant features highlights a clear difference in the appearance of the extracellular matrix and the degree of fibroblast activation.
+
+![Image Alt Text](Haralicks.jpeg)
 
 ## Contributing 
 
