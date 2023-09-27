@@ -28,15 +28,15 @@ Pancreatic ductal adenocarcinoma is a deadly disease, and the identification and
 ![Image Alt Text](Image0.jpeg)
 
 - `Annotation_and_Exportation_in_ometiff`: Tools for annotating histology slides' regions of interest and exporting in OME-TIFF format from QuPath.
-- `Image_registration/`: Code for image registration techniques used in our research.
-- `H&E_color_normalization/`: Implementation of H&E color normalization for pathology slides.
-- `Tiling/`: Scripts for tiling histology slides using QuPath.
-- `Renaming_Tiles/`: Renaming files into shorter and more intuitive names for easier processing
-- `Ilastik_trainer/`: Deep-learning stromal segmenter.
-- `Triaging_from_Ilastik_training/`: Code for triaging tiles with >85% stroma from Ilastik training.
-- `VGG16_Training/`: Training of the VGG16 deep learning model.
-- `VGG16_Process/`: Implementation of the VGG16 deep learning model.
-- `Haralicks/`: Code for extracting Haralick texture features from
+- `Image_registration`: Code for image registration techniques used in our research.
+- `H&E_color_normalization`: Implementation of H&E color normalization for pathology slides.
+- `Tiling`: Scripts for tiling histology slides using QuPath.
+- `Renaming_Tiles`: Renaming files into shorter and more intuitive names for easier processing
+- `Ilastik_trainer`: Deep-learning stromal segmenter.
+- `Triaging_from_Ilastik_training`: Code for triaging tiles with >85% stroma from Ilastik training.
+- `VGG16_Training`: Training of the VGG16 deep learning model.
+- `VGG16_Process`: Implementation of the VGG16 deep learning model.
+- `Haralicks`: Code for extracting Haralick texture features from
 
 ## Dependencies
 
