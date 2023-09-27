@@ -25,7 +25,7 @@ Pancreatic ductal adenocarcinoma is a deadly disease, and the identification and
 
 ## Project Structure
 
-![Image Alt Text](Image.jpg)
+![Image Alt Text](Image.jpeg)
 
 - `Annotation_and_Exportation_in_ometiff/`: Tools for annotating histology slides' regions of interest and exporting in OME-TIFF format from QuPath.
 - `Image_registration/`: Code for image registration techniques used in our research.
