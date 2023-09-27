@@ -27,7 +27,7 @@ Pancreatic ductal adenocarcinoma is a deadly disease, and the identification and
 
 ![Image Alt Text](Image0.jpeg)
 
-- `Annotation_and_Exportation_in_ometiff/`: Tools for annotating histology slides' regions of interest and exporting in OME-TIFF format from QuPath.
+- `Annotation_and_Exportation_in_ometiff`: Tools for annotating histology slides' regions of interest and exporting in OME-TIFF format from QuPath.
 - `Image_registration/`: Code for image registration techniques used in our research.
 - `H&E_color_normalization/`: Implementation of H&E color normalization for pathology slides.
 - `Tiling/`: Scripts for tiling histology slides using QuPath.
